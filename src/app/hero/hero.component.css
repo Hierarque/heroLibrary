@@ -1,0 +1,25 @@
+#hero-info-container {
+    display: flex;
+    gap: 5%;
+    margin: auto;
+}
+
+#hero-name-display {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 4%;
+}
+
+#hero-infos {
+    display: flex;
+    flex-direction: column;
+    gap: 4%;
+    width: 45%;
+}
+
+#displayed-hero-image {
+    width: 45%;
+    border-radius: 25% 0%;
+    border: 2px solid black;
+}
